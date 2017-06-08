@@ -7,7 +7,7 @@
 #آموزش نصب
 
 
-$ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
+$ wget http://xtbot.ir/luarocks-2.2.2.tar.gz
 
 $ tar zxpf luarocks-2.2.2.tar.gz
 
